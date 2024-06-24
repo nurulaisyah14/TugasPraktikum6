@@ -5,7 +5,8 @@
 |----|---|-----|------|
 |Nurul Aisyah|312310476|TI.23.A5|Basis Data|
 
-![gambar_tugas](screenshot/Soal%20Tabel.png)
+![image](https://github.com/nurulaisyah14/TugasPraktikum6/assets/148174512/03747668-8990-4410-b057-11724edc674b)
+
 
 ***Query MySQL Pada Tabel Perusahaan***
 
